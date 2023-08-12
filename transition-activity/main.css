@@ -3,6 +3,7 @@
 body  {
   font-family: 'Josefin Sans', sans-serif;
   text-align: center;
+  
 }
 
 .caption {
@@ -25,3 +26,5 @@ button {
 button:hover {
   background-color: cornflowerblue;
 }
+
+
